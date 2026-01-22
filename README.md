@@ -36,7 +36,14 @@ For each `tr.gsc_a_tr` row:
 - If “Export BibTeX links list” fails to find the BibTeX item, click Scholar’s **Export** menu manually once, then try again.
 
 ## License
-**CC BY-NC-ND 4.0** (Attribution–NonCommercial–NoDerivatives)  
-You may share the script with attribution. Commercial use and distribution of modified versions are not permitted.
 
-Copyright (c) Dr. Sajid Muhaimin Choudhury.
+**CC BY-NC-ND 4.0** — Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International.
+
+Copyright (c) 2026 **Dr. Sajid Muhaimin Choudhury** (sajid.buet.ac.bd)
+
+- You may **share** (copy and redistribute) this project with **attribution**.
+- **Commercial use is not permitted.**
+- **Distribution of modified versions is not permitted.**
+
+See the `LICENSE` file for details.
+
